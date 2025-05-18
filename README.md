@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Calter / João Pedro
+# 👩🏻‍💻 Calter / 
 
 **Full Stack Developer`**
 
