@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Calter / 
+# 👩🏻‍💻 Calter 
 
 **Full Stack Developer`**
 
-My name is João Pedro, a Computer Science student at FIAP University, with 4 years of experience in programming and web development, where I build daily projects archived here for study and professional showcase, welcome to my profile!
+My name is Calter, a Computer Science student at FIAP University, with 4 years of experience in programming and web development, where I build daily projects archived here for study and professional showcase, welcome to my profile!
 
 ---
 
