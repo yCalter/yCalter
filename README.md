@@ -4,7 +4,6 @@ My name is Calter, a Computer Science student at FIAP University, with 4 years o
 
 ---
 
-### 🤖 Programming Languages
 
 <br/>
 <br/>
